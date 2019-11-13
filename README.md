@@ -1,2 +1,2 @@
-# Google_Colab_Veri_Artt-rma
+# Google_Colab_Veri_Arttirma
 Phyton İle Veri Arttırma
